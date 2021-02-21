@@ -10,4 +10,8 @@ public class AppApplication {
 		SpringApplication.run(AppApplication.class, args);
 	}
 
+	// TODO
+	// attach mongoDB
+	// -https://www.youtube.com/watch?v=k5PeywcbVYc
+	// expose it via REST endpoints
 }
